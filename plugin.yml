@@ -2,7 +2,7 @@ name: Bank
 version: 0.0.0
 api: ["3", "4"]
 main: ItzFabb\Bank\Main
-author: ItzFabb
+author: Prince
 depend: ["EconomyAPI", "InvCrashFix", "PurePerms"]
 
 commands:
